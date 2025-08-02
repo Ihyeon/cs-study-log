@@ -6,7 +6,7 @@
 
 | 종류 |분류 | 제목 | 저자 | 진도 | 상태 | 위치 |
 |-----|-------|--------|-----|------|------|-----------|
-| BOOK | SYSTEM |혼자 공부하는 컴퓨터 구조+운영체제 | 강민철 | 2 / 15장 | 🟡 진행중 | [system/hon-gong-sys](./system/hon-gong-sys) |
+| BOOK | SYSTEM |혼자 공부하는 컴퓨터 구조+운영체제 | 강민철 | 2 / 15장 | 🟡 | [system/hon-gong-sys](./system/hon-gong-sys) |
 
 ### 분류 기준
 
