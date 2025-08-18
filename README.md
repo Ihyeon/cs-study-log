@@ -7,7 +7,7 @@
 | 종류 |분류 | 제목 | 저자/교수 | 진도 | 상태 | 위치 |
 |-----|-------|--------|-----|------|------|-----------|
 | BOOK | SYSTEM |혼자 공부하는 컴퓨터 구조+운영체제 | 강민철 | 4 / 15장 | 🟡 | [system/hon-gong-sys](./system/hon-gong-sys) |
-| LECTURE  | KNOU   | 컴퓨터과학개론             | 이관용, 정광식     | 1 / 8장    |  🟡  | [knou/intro-to-cs](./knou/intro-to-cs) |
+| LEC  | KNOU   | 컴퓨터과학개론             | 이관용, 정광식     | 1 / 8장    |  🟡  | [knou/intro-to-cs](./knou/intro-to-cs) |
 
 ### 분류 기준
 
