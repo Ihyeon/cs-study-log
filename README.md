@@ -11,7 +11,7 @@
 | LEC  | KNOU   | [C프로그래밍](./knou/c_programming)              | 김형근·곽덕훈·정재화     | 1/9    |  🟡  |
 | LEC  | KNOU   | [자료구조](./knou/data_structures)              | 강태원·정광식     | 2/15    |  🟡  |
 | LEC  | KNOU   | [선형대수](./knou/linear-algebra)              | 손진곤·강태원·김진욱     | 3/15    |  🟡  |
-| LEC  | KNOU   | [오픈소스 기반 데이터분석](./knou/Data-Analysis-with-Open-Source)              | 정재화·이태민     | 3/10    |  🟡  |
+| LEC  | KNOU   | [오픈소스 기반 데이터분석](./knou/open-data-analysis)              | 정재화·이태민     | 3/10    |  🟡  |
 
 ### 분류 기준
 
